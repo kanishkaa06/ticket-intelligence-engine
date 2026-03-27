@@ -111,5 +111,5 @@ ticket-intelligence-engine/
 
 ---
 
-*By Kanishka Dubey *
-```
+By Kanishka Dubey 
+

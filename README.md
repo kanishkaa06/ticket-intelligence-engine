@@ -5,7 +5,7 @@ basic dashboards — classifying tickets, predicting SLA breaches before
 they happen, clustering root causes from raw text, and detecting hidden
 agent overload by complexity rather than volume.
 
-**Live Demo:** [Click to open app](#) ← we will update this link after deployment
+**Live Demo:** [Click to open app](#) ← This link will update after deployment 
 
 ---
 
@@ -111,12 +111,5 @@ ticket-intelligence-engine/
 
 ---
 
-*Built by Kanishka Dubey — Computer Science graduate targeting
-Data/ML/AI roles*
+*By Kanishka Dubey *
 ```
-
-After saving, run these three commands to push the README to GitHub:
-```
-git add README.md
-git commit -m "Add project README"
-git push

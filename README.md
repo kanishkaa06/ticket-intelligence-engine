@@ -5,7 +5,7 @@ basic dashboards — classifying tickets, predicting SLA breaches before
 they happen, clustering root causes from raw text, and detecting hidden
 agent overload by complexity rather than volume.
 
-**Live Demo:** [Click to open app](#) ← This link will update after deployment 
+**Live Demo:** [Click to open app](https://ticket-intelligence-engine-upbeyrectrka6cefkcbnjt.streamlit.app/)
 
 ---
 
